@@ -13,4 +13,4 @@ Projeto com domínio sobre gerencimento de Tarefas.
 ### Atividades:
 
 - Atividades sobre realização de testes unitários no arquivo `GerenciamentoTarefasTest.class`;
-- Atividades sobre realização de gerenciadores de dependências no arquivo `GerenciamentoTarefasTest.class`;
+- Atividades sobre realização de gerenciadores de dependências no arquivo `GerenciamentoTarefasTest.class`.
